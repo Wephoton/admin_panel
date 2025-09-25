@@ -2,7 +2,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+### clone the repositary
+https://github.com/Wephoton/admin_panel.git
+
+### enter the project
+cd admin_panel
+
+### install the dependencies
+
+npm install
+
+run the development server:
 
 ```bash
 npm run dev
