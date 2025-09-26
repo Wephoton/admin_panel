@@ -1,0 +1,114 @@
+Overview
+Creator
+Brand
+Campaign
+Finance 
+Marketing
+Pulse center 
+Helpdesk
+Analytics
+Legal
+Content
+Settings 
+Admin
+
+1. Overview
+- Executive Summary  
+- System Health  
+- Recent Activity  
+- Notifications & Alerts  
+
+2. Creators
+- Creator Directory  
+- Profiles & Portfolios  
+- Onboarding Status  
+- Engagement Metrics  
+
+3. Brands
+- Brand Directory  
+- Campaign History  
+- Contact & Billing Info  
+- Collaboration Status  
+
+4. Campaigns
+- Active Campaigns  
+- Setup Wizard  
+- Campaign Marketplace
+- Deliverables Tracker  
+- Performance Reports  
+
+5. Finance
+- Wallet Ledger / book of accounts 
+- Settlements  
+- Invoices & Payments  
+- Adjustments & Notes  
+- Tools (Payment gateway, SMTP server, Cloud Server)
+
+6. Marketing
+- Asset Library  
+- Reviews
+- Surveys 
+- Mails & Messages 
+- Offers & Discounts 
+- Push notifications
+- Campaign 
+- Campaign Templates  
+- Localization Tools  
+- Batch Generator  
+- Team messages
+
+7. Pulse Center (for product evolution)
+- Bug Tracker  
+- Log Manager 
+- Feedback Inbox  
+- Feature Changes (roles, cate)
+- Reviews
+- Surveys
+- AI agents 
+- Mail Automations 
+- Notification Automations 
+- Manage servers
+- Release Notes  
+- Experiments & Toggles  
+
+8. Helpdesk
+- Ticket Inbox  
+- Foul word game
+- Recovery Requests
+- Mails
+- Verifications (GST, KYC, Union License)
+- Reviews 
+- Surveys
+- Response Macros  (Training)
+- Escalation Queue  
+- User Guides & FAQs  
+
+9. Analytics
+- Engagement Analytics  
+- Financial Insights  
+- Product Analysis
+- Achievements Ranking 
+- Campaign Performance  
+- Custom Reports  
+
+10. Settings
+- Branding & Appearance  
+- Integrations  
+- Notifications  
+- System Preferences 
+
+11. Legal
+- Terms
+- Agreements
+- GST
+- TDS
+
+12. Content
+- Blog
+- FAQ
+- Marketing 
+
+13. Admin Access 
+- Roles & Permissions 
+- Approvals
+- Pricing
